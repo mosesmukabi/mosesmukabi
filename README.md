@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mosesmukabi
-- 👀 I’m interested in ... learning python programming lagguage
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... coding python
+- 👀 I’m a software engineer
+- 🌱 I’m currently working on project to improve my skills
+- 💞️ Available for any challange
 - 📫 How to reach me ... mosesmukabi9@gmail.com
 
 
